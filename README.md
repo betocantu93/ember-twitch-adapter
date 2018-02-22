@@ -1,11 +1,12 @@
 # ember-twitch-adapter
 
-This README outlines the details of collaborating on this Ember addon.
+Set of adapters and serializers for consuming https://dev.twitch.tv/docs/api/reference in https://github.com/betocantu93/twitch-app Ember app with JSONAPIAdapter and JSONAPISerializer.
+Models are inside https://github.com/betocantu93/twitch-app git.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-twitch-adapter`
+* `cd ember-twitch-normalizer`
 * `npm install`
 
 ## Running
