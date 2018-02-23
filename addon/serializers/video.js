@@ -18,7 +18,7 @@ export default DS.JSONAPISerializer.extend({
            thumbnail_url: record.thumbnail_url,
            title: record.title,
            url: record.url,
-           viewer_count: record.viewer_count,
+           view_count: record.view_count,
            viewable: record.viewable,
          },
          relationships: {
